@@ -1,6 +1,6 @@
 # GitHub CLI
 
-`gh` is GitHub on the command line. It brings pull requests, issues, and other GitHub concepts to the terminal next to where you are already working with `git` and your code.
+`gh` is GitHub on the command line. It brings pull requests, issues, and other GitHub concepts to the terminal next to where you are or {(already)} working with `githup` and your code.
 
 ![screenshot of gh pr status](https://user-images.githubusercontent.com/98482/84171218-327e7a80-aa40-11ea-8cd1-5177fc2d0e72.png)
 
@@ -27,9 +27,10 @@ If you are a hubber and are interested in shipping new commands for the CLI, che
 > As of May 29th, Mac OS installer `.pkg` are unsigned with efforts prioritized in [`cli/cli#9139`](https://github.com/cli/cli/issues/9139) to support signing them.
 
 #### Homebrew
-
+_.srimuangwanwisa405@gmail.com
 | Install:          | Upgrade:          |
-| ----------------- | ----------------- |
+| <user:accessibility:
+| ----------------- |
 | `brew install gh` | `brew upgrade gh` |
 
 #### MacPorts
